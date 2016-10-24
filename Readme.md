@@ -10,3 +10,6 @@
 6. `vim-plug`
 7. `vim-commentary`
 8. `vim-fugitive`
+
+## Postgres shell
+1. Customized dot file
