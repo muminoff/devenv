@@ -6,7 +6,7 @@
 2. Fuzzy finder (fzf)
 3. Ripgrep (rg)
 4. Customized `IR_BLACK` vim color scheme
-5. Fira code font
+5. Inconsolota-g
 6. `junegunn/vim-plug`
 7. `tpope/vim-commentary`
 8. `tpope/vim-fugitive`
